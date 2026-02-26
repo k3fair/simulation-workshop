@@ -1,10 +1,10 @@
 baseURL = "https://k3fair.github.io/simulation-workshop/"
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-t h e m e   =   ' a n a n k e ' 
+languageCode = "en-gb"
+title = "Simulation Workshop"
+theme = "ananke"
 
 [caches]
   [caches.images]
-    dir = ':cacheDir/images'
+    dir = ":cacheDir/images"
  
  
