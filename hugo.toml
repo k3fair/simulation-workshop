@@ -3,6 +3,11 @@ languageCode = "en-gb"
 title = "Simulation Workshop"
 theme = "ananke"
 
+[params]
+  description = "Applied Simulation Methods for Regional Decision-Making"
+  background_color_class = "bg-black"
+  featured_image = "/images/hero.jpg"
+
 [caches]
   [caches.images]
     dir = ":cacheDir/images"
