@@ -1,4 +1,4 @@
-baseURL = baseURL = "https://k3fair.github.io/simulation-workshop/"
+baseURL = "https://k3fair.github.io/simulation-workshop/"
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 t h e m e   =   ' a n a n k e ' 
