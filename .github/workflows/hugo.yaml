@@ -33,6 +33,11 @@ jobs:
       - name: Build
         run: hugo --minify --baseURL "https://k3fair.github.io/simulation-workshop/"
 
+      - name: List public output
+        run: |
+          ls -la public
+          find public -maxdepth 2 -type f -print
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
