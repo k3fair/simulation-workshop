@@ -3,6 +3,7 @@ title: "Applied Simulation Methods for Regional Decision-Making"
 description: "A practitioner-focused workshop exploring simulation approaches for regional policy and decision-making."
 date: 2026-04-01
 draft: false
+featured_image: "/images/hero.png"
 ---
 
 ## April 2026  
