@@ -1,9 +1,7 @@
 ﻿---
 title: "Applied Simulation Methods for Regional Decision-Making"
 description: "A practitioner-focused workshop introducing applied simulation approaches for regional policy and strategic decision-making."
-date: 2026-04-01
 draft: false
-# featured_image: "/images/hero.jpg"
 ---
 
 ## April 2026  
@@ -39,14 +37,14 @@ No prior experience with simulation modelling is required.
 
 The day is structured in two parts.
 
-### Morning â€” Methods and Demonstration
+### Morning — Methods and Demonstration
 
 - Introduction to applied simulation approaches for regional systems  
 - Discussion of strengths and limitations  
 - Demonstration of applied regional case examples  
 - Open Q&A  
 
-### Afternoon â€” Structured Practitioner Session
+### Afternoon — Structured Practitioner Session
 
 - Identification of priority regional policy questions  
 - Small-group problem-mapping discussions  
@@ -106,7 +104,7 @@ Attendance is free but capacity is limited.
 
 If you are interested in attending, please register your interest using the link below.
 
-[Register Interest â€“ Link Coming Soon]
+[Register Interest – Link Coming Soon]
 
 For enquiries, please contact:  
 kathryn.fair@uwe.ac.uk
