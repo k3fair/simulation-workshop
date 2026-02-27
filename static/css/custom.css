@@ -10,6 +10,30 @@ header .bg-black-60 {
   background-color: rgba(0, 0, 0, 0.45) !important;
 }
 
+/* Gradient overlay on Ananke hero background wrapper */
+header .cover {
+  position: relative;
+}
+
+header .cover::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(5, 15, 30, 0.75),
+    rgba(5, 15, 30, 0.65)
+  );
+  z-index: 1;
+  pointer-events: none;
+}
+
+/* Ensure hero text sits above overlay */
+header .cover > * {
+  position: relative;
+  z-index: 2;
+}
+
 /* Add breathing room below hero */
 header + main {
   margin-top: 1.25rem;
