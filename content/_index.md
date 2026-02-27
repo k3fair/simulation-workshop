@@ -1,111 +1,94 @@
-﻿---
+---
 title: "Understanding Complexity: Simulations for Systems in Policy and Industry"
 description: "A practitioner-focused workshop introducing applied simulation approaches for regional policy and strategic decision-making."
 featured_image: "/images/hero.png"
 draft: false
 ---
 
-## April 30 2026  
-UWE Enterprise Zone, Bristol
+### April 30, 2026 · UWE Enterprise Zone, Bristol
+
+A one-day, practitioner-focused workshop on simulation methods for regional decision-making—what they are good for, what they are not, and how to use them to stress-test policy assumptions.
+
+**Attendance:** Free (registration required) · **Capacity:** Limited · **Format:** In-person
+
+[Register interest](mailto:Kat.Fair@uwe.ac.uk?subject=Simulation%20Workshop%20-%20Registration%20Interest)
 
 ---
 
-## Why This Workshop
+## Why this workshop
 
-Regional policy decisions increasingly require structured reasoning about complex systems: labour markets, sectoral transitions, skills adaptation, infrastructure resilience, and inclusive growth. Descriptive statistics clarify past trends, but offer limited insight into how regional systems may respond under new policies, economic shocks, or structural change.
+Regional policy increasingly involves complex systems: labour markets, sectoral transition, skills adaptation, infrastructure resilience, and inclusive growth. Standard indicators describe trends, but often fail to clarify **feasibility**, **bottlenecks**, and **second-order effects** under change.
 
-Simulation methods provide a complementary tool. They enable mechanism-based reasoning, structured scenario exploration, and stress-testing of policy assumptions under uncertainty.
+This workshop introduces applied simulation approaches that support:
 
-This workshop introduces applied simulation approaches in an accessible and policy-relevant way, while creating space for structured practitioner-led discussion about priority modelling needs in the West of England and surrounding regions.
+- **Mechanism-based reasoning** about why patterns emerge  
+- **Scenario exploration** without point forecasting  
+- **Stress-testing** of policy assumptions under uncertainty  
+- **Structured problem framing** with practitioners and analysts  
 
 ---
 
-## Who Should Attend
+## Who should attend
 
-This workshop is designed for:
+Designed for practitioners working on regional strategy and delivery, including:
 
 - Regional policymakers and strategy leads  
 - Economic and labour-market analysts  
 - Skills and workforce planning teams  
 - Local authority innovation and data teams  
-- Public bodies engaged in regional development and transition planning  
+- Public bodies engaged in transition planning  
 
-No prior experience with simulation modelling is required.
+No prior simulation experience is required.
 
 ---
 
-## Workshop Format
+## Format
 
-The day is structured in two parts.
+### Morning: Methods and demonstrations
 
-### Morning — Methods and Demonstration
+- Overview of simulation approaches used in policy and industry  
+- What they can and cannot answer (common failure modes)  
+- Demonstrations using regional case examples  
+- Open Q&A
 
-- Introduction to applied simulation approaches for regional systems  
-- Discussion of strengths and limitations  
-- Demonstration of applied regional case examples  
-- Open Q&A  
+### Afternoon: Structured practitioner session
 
-### Afternoon — Structured Practitioner Session
-
-- Identification of priority regional policy questions  
-- Small-group problem-mapping discussions  
+- Identify priority regional policy questions  
+- Small-group problem mapping  
 - Plenary synthesis  
 - Discussion of potential next steps and collaboration pathways  
 
-The focus is on clarity, realism, and constructive exchange rather than technical depth.
+The emphasis is on clarity and realism, not technical depth.
 
 ---
 
 ## Speakers
 
-### Dr Kathryn Fair  
-Lecturer in Data Science  
-University of the West of England  
+**Dr Kathryn Fair** · Lecturer in Data Science · University of the West of England  
+Computational social science and regional labour-market modelling; mechanism-based approaches to structure, mobility, and policy stress-testing.
 
-Research in computational social science and regional labour-market modelling, with a focus on mechanism-based approaches to economic structure, mobility, and policy stress-testing.
+**Dr Marco Perez Hernandez** · Senior Lecturer in Computer science · University of the West of England  
+Applied modelling of complex socio-economic systems for real-world decision contexts.
 
----
+**Dr Omar Guerrero** · Lecturer in Social Data Science · University of Helsinki  
+Economic complexity, structural transformation, and network-based policy modelling.
 
-### Dr Marco Perez Hernandez  
-University of the West of England  
-
-Work on simulation methods and applied modelling for complex socio-economic systems, with emphasis on real-world decision contexts.
-
----
-
-### Dr Omar Guerrero  
-Associate Professor  
-University of Helsinki  
-
-Research on economic complexity, structural transformation, and policy modelling using computational and network-based approaches.
+**Prof Manuel Herrera** · Professor of Smart Infrastructure Systems · Newcastle University  
+Infrastructure resilience, digital twins, and simulation-based approaches for engineering and urban systems.
 
 ---
 
-### Prof Manuel Herrera  
-Professor of Smart Infrastructure Systems  
-Newcastle University  
-
-Research in infrastructure resilience, digital twins, and simulation-based approaches for engineering and urban systems.
-
----
-
-## Venue and Practical Information
+## Practical information
 
 **Location:** UWE Enterprise Zone event space (near Frenchay Campus), Bristol  
-**Format:** In-person  
-**Duration:** Full-day workshop (exact timings to be confirmed)
+**Format:** In-person · **Duration:** Full day (timings to be confirmed)
 
-Further logistical details, including accessibility and travel guidance, will be circulated to registered participants.
+Accessibility and travel guidance will be shared with registered participants.
 
 ---
 
-## Registration
+## Registration and contact
 
 Attendance is free but capacity is limited.
 
-If you are interested in attending, please register your interest using the link below.
-
-[Register Interest – Link Coming Soon]
-
-For enquiries, please contact:  
-kathryn.fair@uwe.ac.uk
+Register interest: **Kat.Fair@uwe.ac.uk**

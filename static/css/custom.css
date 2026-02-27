@@ -26,3 +26,9 @@ main h2,
 main h3 {
   text-align: center;
 }
+
+/* Slightly increase body text size for a landing page feel */
+main .nested-copy-line-height { font-size: 1.05rem; }
+
+/* Make horizontal rules less “bloggy” */
+main hr { margin: 2.25rem 0; opacity: 0.35; }
