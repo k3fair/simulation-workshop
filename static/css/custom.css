@@ -5,9 +5,24 @@
 header .f-subheadline-l { font-size: 2.2rem; }
 header .f2-l { font-size: 1.45rem; }
 
-/* Slightly lighten Ananke hero overlay */
-header .bg-black-60 {
-  background-color: rgba(0, 0, 0, 0.45) !important;
+/* 1) Make the overlay meaningfully darker */
+header .bg-black-60{
+  background-color: rgba(0,0,0,0.62) !important;  /* was 0.45 */
+}
+
+/* 2) Add a subtle shadow to all hero text */
+header h1,
+header .f2-l,
+header .f-subheadline-l,
+header p,
+header .white-90,
+header .white {
+  text-shadow: 0 2px 10px rgba(0,0,0,0.65);
+}
+
+/* 3) Slightly increase headline weight for better stroke */
+header h1{
+  font-weight: 700;
 }
 
 /* Gradient overlay on Ananke hero background wrapper */
