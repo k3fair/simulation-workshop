@@ -5,7 +5,7 @@ theme = "ananke"
 
 [params]
   description = "Applied Simulation Methods for Regional Decision-Making"
-  featured_image = "/images/hero.png"
+  featured_image = "images/hero.png"
   cover_dimming_class = "bg-black-70"
   custom_css = ["css/custom.css"]
 

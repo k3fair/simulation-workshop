@@ -65,8 +65,8 @@ No prior simulation experience is required.
 <div class="speaker-grid">
 
   <div class="speaker-card">
-    <img class="speaker-photo" src="/images/speakers/kat.jpg" alt="Dr Kathryn Fair">
-    <div class="speaker-name">Dr Kathryn Fair</div>
+    <img class="speaker-photo" src="images/speakers/kat.jpg" alt="Dr Kathryn Fair">
+    <div class="speaker-name">Dr Kathyrn Fair</div>
     <div class="speaker-role">Lecturer in Data Science · University of the West of England</div>
     <div class="speaker-bio">
       Computational social science and regional labour-market modelling; mechanism-based approaches to structure, mobility, and policy stress-testing.
@@ -74,7 +74,7 @@ No prior simulation experience is required.
   </div>
 
   <div class="speaker-card">
-    <img class="speaker-photo" src="/images/speakers/marco.jpg" alt="Dr Marco Perez Hernandez">
+    <img class="speaker-photo" src="images/speakers/marco.jpg" alt="Dr Marco Perez Hernandez">
     <div class="speaker-name">Dr Marco Perez Hernandez</div>
     <div class="speaker-role">Senior Lecturer in Computer Science · University of the West of England</div>
     <div class="speaker-bio">
@@ -83,7 +83,7 @@ No prior simulation experience is required.
   </div>
 
   <div class="speaker-card">
-    <img class="speaker-photo" src="/images/speakers/omar.jpg" alt="Dr Omar Guerrero">
+    <img class="speaker-photo" src="images/speakers/omar.jpg" alt="Dr Omar Guerrero">
     <div class="speaker-name">Dr Omar Guerrero</div>
     <div class="speaker-role">Lecturer in Social Data Science · University of Helsinki</div>
     <div class="speaker-bio">
@@ -92,7 +92,7 @@ No prior simulation experience is required.
   </div>
 
   <div class="speaker-card">
-    <img class="speaker-photo" src="/images/speakers/manuel.jpg" alt="Prof Manuel Herrera">
+    <img class="speaker-photo" src="images/speakers/manuel.jpg" alt="Prof Manuel Herrera">
     <div class="speaker-name">Prof Manuel Herrera</div>
     <div class="speaker-role">Professor of Smart Infrastructure Systems · Newcastle University</div>
     <div class="speaker-bio">
