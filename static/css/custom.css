@@ -15,13 +15,13 @@ header + main {
   margin-top: 1.5rem;
 }
 
-/* Hide site title in top-left */
-header .site-title,
+/* Hide top-left site title in header */
 header .navbar-brand,
-header a[href="/"] {
+header .site-title,
+header a[href="/"],
+header .f3.fw2.hover-white.no-underline.white-90.dib {
   display: none !important;
 }
-
 
 /* -------------------------------------------------- */
 /* WIDER LANDING PAGE LAYOUT */
