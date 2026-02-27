@@ -119,7 +119,7 @@ Participants will gain insight into how simulation can bridge engineering system
 ### Navigating the Adoption of AI for Policymaking  
 **Dr Omar Guerrero · University of Helsinki**
 
-Artificial intelligence is increasingly promoted as a transformative tool for government. Yet inflated expectations and hype can obscure fundamental questions about institutional capacity, incentives, and long-term sustainability. Drawing on recent work examining AI adoption in public administration :contentReference[oaicite:1]{index=1}, this talk critically examines how governments can navigate promises, pitfalls, and illusions associated with AI deployment.
+Artificial intelligence is increasingly promoted as a transformative tool for government. Yet inflated expectations and hype can obscure fundamental questions about institutional capacity, incentives, and long-term sustainability. Drawing on recent work examining AI adoption in public administration, this talk critically examines how governments can navigate promises, pitfalls, and illusions associated with AI deployment.
 
 The session introduces a structured framework for evaluating methodological adoption, including key context, data, computing, opportunity cost, and internal capacity considerations. It also presents the 3Ps framework — Pace, Penetration, and Profundity — as a way to assess how deeply a tool reshapes policymaking practice versus merely automating administrative tasks.
 
