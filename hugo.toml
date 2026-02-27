@@ -1,6 +1,6 @@
 baseURL = "https://k3fair.github.io/simulation-workshop/"
 languageCode = "en-gb"
-title = "Simulation Workshop"
+title = "Kathyrn Fair"
 theme = "ananke"
 
 [params]

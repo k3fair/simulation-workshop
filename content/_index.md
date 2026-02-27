@@ -53,7 +53,7 @@ No prior simulation experience is required.
 | 11:00–11:45 | **Modelling Collective Dynamics to Moderate Grid Infrastructure Peak Load** — Dr Marco Perez Hernandez |
 | 11:45–12:30 | Structured problem-solving session |
 | 12:30–13:30 | Networking lunch |
-| 13:30–14:15 | **Agent-Based Modelling for the SDGs and AI for Policymaking** — Dr Omar Guerrero |
+| 13:30–14:15 | **AI for Policymaking** — Dr Omar Guerrero |
 | 14:15–15:00 | **Agent-Based Modelling in Nationwide Infrastructure Systems** — Prof Manuel Herrera |
 | 15:00–15:45 | Group activity and synthesis |
 | 15:45–16:00 | Closing discussion |

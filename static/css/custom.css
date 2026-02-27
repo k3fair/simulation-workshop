@@ -15,6 +15,13 @@ header + main {
   margin-top: 1.5rem;
 }
 
+/* Hide site title in top-left */
+header .site-title,
+header .navbar-brand,
+header a[href="/"] {
+  display: none !important;
+}
+
 
 /* -------------------------------------------------- */
 /* WIDER LANDING PAGE LAYOUT */
