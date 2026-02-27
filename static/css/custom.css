@@ -32,3 +32,17 @@ main .nested-copy-line-height { font-size: 1.05rem; }
 
 /* Make horizontal rules less “bloggy” */
 main hr { margin: 2.25rem 0; opacity: 0.35; }
+
+a[href^="mailto"] {
+  display: inline-block;
+  padding: 0.6rem 1.1rem;
+  margin-top: 0.5rem;
+  background-color: #111;
+  color: #fff !important;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+a[href^="mailto"]:hover {
+  background-color: #333;
+}

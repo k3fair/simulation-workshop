@@ -87,8 +87,14 @@ Accessibility and travel guidance will be shared with registered participants.
 
 ---
 
-## Registration and contact
+---
 
-Attendance is free but capacity is limited.
+## Registration
 
-Register interest: **Kat.Fair@uwe.ac.uk**
+Attendance is free, but places are limited.
+
+To register your interest, email:
+
+**[Kat.Fair@uwe.ac.uk](mailto:Kat.Fair@uwe.ac.uk?subject=Simulation%20Workshop%20-%20Registration%20Interest)**
+
+Please include your name, organisation, and role.
