@@ -1,92 +1,93 @@
 /* -------------------------------------------------- */
-/* HERO TEXT SIZE + OVERLAY REFINEMENT */
+/* HERO (Ananke): readable overlay + optional panel    */
 /* -------------------------------------------------- */
 
+/* Text sizing */
 header .f-subheadline-l { font-size: 2.2rem; }
 header .f2-l { font-size: 1.45rem; }
 
-/* 1) Make the overlay meaningfully darker */
-header .bg-black-60{
-  background-color: rgba(0,0,0,0.62) !important;  /* was 0.45 */
+/* Make header able to host an overlay */
+header { position: relative; }
+
+/* Ensure background layer stays behind overlays/text */
+header .cover { position: relative; z-index: 0; }
+
+/* Kill Ananke's default overlay so it doesn't fight ours */
+header .bg-black-60 { background: transparent !important; }
+
+/* Primary overlay: sits ABOVE the hero image */
+header::before{
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+
+  /* Stronger band where your text sits */
+  background: linear-gradient(
+    to bottom,
+    rgba(5,15,30,0.88) 0%,
+    rgba(5,15,30,0.82) 28%,
+    rgba(5,15,30,0.70) 55%,
+    rgba(5,15,30,0.45) 100%
+  );
 }
 
-/* 2) Add a subtle shadow to all hero text */
+/* Ensure hero text sits above overlay */
+header .pv6,
+header .ph3,
+header .ph4-ns,
+header .mw8,
+header .measure{
+  position: relative;
+  z-index: 2;
+}
+
+/* Text legibility */
 header h1,
+header p,
 header .f2-l,
-header .f-subheadline-l,
-header p {
+header .f-subheadline-l{
   color: rgba(255,255,255,0.98) !important;
   text-shadow:
     0 2px 2px rgba(0,0,0,0.85),
     0 10px 30px rgba(0,0,0,0.75);
 }
 
-
-/* 3) Slightly increase headline weight for better stroke */
 header h1{
-  font-weight: 700;
+  font-weight: 700 !important;
+  -webkit-text-stroke: 0.6px rgba(0,0,0,0.65);
 }
 
-/* Gradient overlay on Ananke hero background wrapper */
-header .cover {
-  position: relative;
-}
-
-header .cover {
-  position: relative;
-}
-
-header .cover::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  pointer-events: none;
-  z-index: 1;
-
-  /* Soft band behind text area */
-  background: linear-gradient(
-    to bottom,
-    rgba(5,15,30,0.80) 0%,
-    rgba(5,15,30,0.75) 30%,
-    rgba(5,15,30,0.60) 55%,
-    rgba(5,15,30,0.35) 100%
-  );
-}
-
-/* Ensure hero text sits above overlay */
-header .cover > * {
-  position: relative;
-  z-index: 2;
-}
-
-/* Ensure the wrapper can shrink to the text width */
-header .mw8 {
+/* Optional: local glass panel behind text (enable if needed) */
+header .mw8{
   display: inline-block;
-  width: fit-content;            /* key */
-  max-width: min(56rem, 92vw);   /* keep it sane on mobile */
+  width: fit-content;
+  max-width: min(56rem, 92vw);
   margin-left: auto;
   margin-right: auto;
 
   padding: 1.15rem 1.6rem;
   border-radius: 16px;
 
-  background: rgba(0,0,0,0.45);  /* stronger so you can see it */
-  border: 1px solid rgba(255,255,255,0.10);  /* subtle edge */
+  background: rgba(0,0,0,0.42);
+  border: 1px solid rgba(255,255,255,0.10);
   box-shadow: 0 18px 50px rgba(0,0,0,0.45);
 
   backdrop-filter: blur(6px);
   -webkit-backdrop-filter: blur(6px);
 }
 
-/* Remove any nesting effects (in case you still have them) */
+/* Remove nesting effects if measure/ph classes exist inside mw8 */
 header .mw8 .measure,
 header .mw8 .ph3,
-header .mw8 .ph4-l {
+header .mw8 .ph4-l{
   background: transparent !important;
-  backdrop-filter: none !important;
-  -webkit-backdrop-filter: none !important;
   padding: 0 !important;
   border-radius: 0 !important;
+  box-shadow: none !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
 }
 
 /* Add breathing room below hero */
