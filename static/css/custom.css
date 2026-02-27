@@ -31,7 +31,10 @@ header::before {
 }
 
 /* Ensure hero content sits above overlay */
-header .pv6,
+header .pv6 {
+  padding-top: 5.5rem;
+  padding-bottom: 5.5rem;
+}
 header .ph3,
 header .ph4-ns,
 header .mw8,
