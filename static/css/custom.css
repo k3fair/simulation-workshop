@@ -52,7 +52,10 @@ header .cover > * {
 }
 
 /* Local panel behind hero text (Ananke container) */
-header .mw8 {
+header .mw8,
+header .measure,
+header .ph3,
+header .ph4-l {
   display: inline-block;
   padding: 1.1rem 1.4rem;
   border-radius: 14px;
