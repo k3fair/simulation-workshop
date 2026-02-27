@@ -51,7 +51,8 @@ header h1 {
 }
 
 header p {
-  text-shadow: 0 2px 8px rgba(0,0,0,0.85);
+  opacity: 0.95;
+  text-shadow: 0 2px 6px rgba(0,0,0,0.75);
 }
 
 /* Add breathing room below hero */
