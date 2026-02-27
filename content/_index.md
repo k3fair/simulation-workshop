@@ -1,10 +1,10 @@
 ﻿---
-title: "Applied Simulation Methods for Regional Decision-Making"
+title: "Understanding Complexity: Simulations for Systems in Policy and Industry"
 description: "A practitioner-focused workshop introducing applied simulation approaches for regional policy and strategic decision-making."
 draft: false
 ---
 
-## April 2026  
+## April 30 2026  
 UWE Enterprise Zone, Bristol
 
 ---
