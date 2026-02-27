@@ -65,7 +65,7 @@ No prior simulation experience is required.
 <div class="speaker-grid">
 
   <div class="speaker-card">
-    <img class="speaker-photo" src="/images/speakers/kathryn.jpg" alt="Dr Kathryn Fair">
+    <img class="speaker-photo" src="/images/speakers/kat.jpg" alt="Dr Kathryn Fair">
     <div class="speaker-name">Dr Kathryn Fair</div>
     <div class="speaker-role">Lecturer in Data Science · University of the West of England</div>
     <div class="speaker-bio">
