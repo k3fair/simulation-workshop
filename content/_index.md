@@ -1,20 +1,23 @@
 ---
-title: "Understanding Complexity: Simulations for Systems in Policy and Industry"
-description: "A practitioner-focused workshop introducing applied simulation approaches for regional policy, infrastructure, and strategic decision-making."
+title: "Stress-Testing Complex Systems: Simulation for Policy and Industry Strategy"
+description: "Examining what simulation methods can — and cannot — tell us about structural change and decision-making under uncertainty."
 featured_image: "images/hero.png"
 draft: false
 ---
 
 ### April 30, 2026 · UWE Enterprise Zone, Bristol
 
-A one-day, practitioner-focused workshop on simulation methods for decision-making in policy, infrastructure, and enterprise contexts—what they are good for, what they are not, and how to use them to stress-test assumptions under uncertainty.
+A one-day practitioner workshop on using simulation to support strategic decisions in complex policy and industry contexts. The focus is on stress-testing assumptions, identifying structural constraints, and examining how systems respond to shocks, transitions, and long-term change.
 
-**Attendance:** Free (registration required) · **Capacity:** Limited · **Format:** In-person
+Drawing on applied examples from labour markets, infrastructure, and public-sector and enterprise systems, the workshop explores how simulation can inform structured reasoning under uncertainty — without relying on opaque prediction.
+
+**Attendance:** Free (registration required) · **Catering provided** · **Capacity:** Limited · **Format:** In-person
 
 [Register interest](mailto:Kat.Fair@uwe.ac.uk?subject=Simulation%20Workshop%20-%20Registration%20Interest)
 
 <div class="section-nav">
   <a href="#speakers">Speakers</a>
+  <a href="#talks">Talks</a>
   <a href="#schedule">Schedule</a>
   <a href="#practical">Practical</a>
   <a href="#registration">Register</a>
@@ -25,28 +28,25 @@ A one-day, practitioner-focused workshop on simulation methods for decision-maki
 
 ## Why this workshop {#why}
 
-Strategic decisions in government, infrastructure, and industry increasingly involve complex systems: labour markets, sectoral transitions, skills adaptation, energy networks, supply chains, and regional growth dynamics. Standard indicators describe trends, but often fail to clarify **feasibility**, **bottlenecks**, and **system-wide responses** under change.
+Strategic decisions in policy and industry increasingly involve systems characterised by interdependence, feedback, and constraint. Yet many planning processes still rely on aggregate indicators or linear projections that overlook how adjustments unfold in practice.
 
-Simulation methods provide a structured complement. They support:
+Simulation provides a way to examine system structure rather than just outcomes. By representing interactions explicitly, it can reveal bottlenecks, path dependencies, and unintended consequences before policies or investments are implemented.
 
-- **Mechanism-based reasoning**
-- **Scenario exploration without point forecasting**
-- **Stress-testing strategic assumptions**
-- **Structured problem framing across policy and enterprise contexts**
+The aim of this workshop is not to promote modelling for its own sake, but to examine where simulation meaningfully strengthens decision-making — and where it does not.
 
 <hr class="section-divider">
 
 ## Who should attend {#audience}
 
-Practitioners working in:
+This workshop is designed for professionals engaged in strategic planning, policy design, and system-level decision-making, including:
 
-- Government (regional and national)
-- Infrastructure, utilities, and resilience
-- Economic development and growth
-- Industry and enterprise strategy
-- Data, analytics, and innovation teams
+- Regional and national policymakers  
+- Infrastructure and utilities strategists  
+- Economic development and transition teams  
+- Industry and enterprise strategy leaders  
+- Data, analytics, and modelling professionals  
 
-No prior simulation experience is required.
+No prior experience with simulation modelling is required. The focus is on conceptual clarity, practical relevance, and structured discussion rather than technical implementation.
 
 <hr class="section-divider">
 
@@ -55,8 +55,8 @@ No prior simulation experience is required.
 <div class="speaker-grid">
 
   <div class="speaker-card">
-    <img class="speaker-photo" src="images/speakers/kat.jpg" alt="Dr Kathryn Fair">
-    <div class="speaker-name">Dr Kathryn Fair</div>
+    <img class="speaker-photo" src="images/speakers/kat.jpg" alt="Dr Kathyrn Fair">
+    <div class="speaker-name">Dr Kathyrn Fair</div>
     <div class="speaker-role">Lecturer in Data Science · University of the West of England</div>
     <div class="speaker-bio">
       Computational social science and regional labour-market modelling; mechanism-based approaches to structure, mobility, and policy stress-testing.
@@ -94,16 +94,16 @@ No prior simulation experience is required.
 
 <hr class="section-divider">
 
-## Talks
+## Talks {#talks}
 
-### Agent-Based Modelling of Labour Markets and Skills  
-**Dr Kathryn Fair · University of the West of England**
+### Labour Markets as Complex Systems: Simulation, Skills, and Structural Constraints  
+**Dr Kathyrn Fair · University of the West of England**
 
-Labour markets are complex adaptive systems shaped by individual mobility decisions, employer demand, skills compatibility, and structural constraints. This talk introduces agent-based modelling approaches to analysing labour-market dynamics, with particular focus on labour flow networks and skill-based transition structures.
+Labour markets are complex adaptive systems shaped by individual mobility decisions, employer demand, skill compatibility, and institutional context. Yet policy and strategy discussions often rely on aggregate indicators that obscure the structural constraints governing who can realistically move where.
 
-Rather than treating employment adjustment as a simple aggregate process, the approach models job-to-job mobility as a networked system in which feasibility depends on skill overlap, occupational structure, and institutional context. The session will demonstrate how simulation can reveal bottlenecks, path dependence, and asymmetric mobility constraints that are not visible in headline indicators.
+This talk presents an agent-based modelling framework that represents labour mobility as a network of feasible job-to-job transitions. By modelling skills overlap, occupational structure, and behavioural dynamics explicitly, the approach makes visible the bottlenecks, asymmetries, and path dependencies that shape system-level adjustment.
 
-The emphasis is on mechanism-based reasoning: making assumptions explicit, testing structural sensitivity, and understanding how micro-level behaviour produces system-wide patterns. Participants will gain a clear view of how labour-market simulation can support structured policy thinking without relying on black-box forecasting.
+Rather than offering point forecasts, the framework supports structured reasoning about feasibility: which transitions are possible, which are constrained, and how shocks propagate through connected occupations. The session will demonstrate how simulation can inform workforce planning, sectoral transition strategy, and long-term skills adaptation in both public and enterprise contexts.
 
 
 ### Modelling Collective Dynamics to Moderate Grid Infrastructure Peak Load  
@@ -144,15 +144,15 @@ Participants will gain a clear understanding of how simulation methods move beyo
 | Time | Session |
 |---:|---|
 | 09:30–10:00 | Arrival and coffee |
-| 10:00–10:15 | Introduction |
-| 10:15–11:00 | **Digital Twins of Labour Markets** — Dr Kathryn Fair |
-| 11:00–11:45 | **Modelling Collective Dynamics to Moderate Grid Infrastructure Peak Load** — Dr Marco Perez Hernandez |
-| 11:45–12:30 | Structured problem-solving session |
-| 12:30–13:30 | Networking lunch |
-| 13:30–14:15 | **AI for Policymaking** — Dr Omar Guerrero |
+| 10:00–10:15 | Welcome and framing: simulation for strategic decision-making |
+| 10:15–11:00 | **Labour Markets as Complex Systems: Simulation, Skills, and Structural Constraints** — Dr Kathyrn Fair |
+| 11:00–11:45 | **Modelling Collective Dynamics in Infrastructure Systems** — Dr Marco Perez Hernandez |
+| 11:45–12:30 | Structured discussion: identifying system constraints and priority questions |
+| 12:30–13:30 | Networking lunch and informal discussion (lunch provided)|
+| 13:30–14:15 | **Navigating the Adoption of AI for Policymaking** — Dr Omar Guerrero |
 | 14:15–15:00 | **Agent-Based Modelling in Nationwide Infrastructure Systems** — Prof Manuel Herrera |
-| 15:00–15:45 | Group activity and synthesis |
-| 15:45–16:00 | Closing discussion |
+| 15:00–15:45 | Collaborative workshop: applying simulation thinking to real decision contexts |
+| 15:45–16:00 | Synthesis and next steps |
 
 <hr class="section-divider">
 
