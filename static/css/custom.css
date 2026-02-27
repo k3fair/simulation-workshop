@@ -51,13 +51,19 @@ header .cover > * {
   z-index: 2;
 }
 
+/* Local panel behind hero text (Ananke container) */
+header .mw8 {
+  display: inline-block;
+  padding: 1.1rem 1.4rem;
+  border-radius: 14px;
+  background: rgba(0,0,0,0.38);
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+}
+
 /* Add breathing room below hero */
 header + main {
   margin-top: 1.25rem;
-}
-
-header h1 {
-  font-weight: 600;
 }
 
 /* Hide top-left site title in header */
