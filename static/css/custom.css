@@ -77,38 +77,40 @@ main .nested-copy-line-height {
 
 
 /* -------------------------------------------------- */
-/* SECTION NAV (STICKY) */
+/* SECTION NAV (STICKY – STRONGER VERSION) */
 /* -------------------------------------------------- */
 
 .section-nav {
   position: sticky;
   top: 0;
-  z-index: 100;
+  z-index: 200;
 
   display: flex;
   gap: 2.25rem;
   align-items: center;
   flex-wrap: wrap;
 
-  padding: 1.1rem 0;
+  padding: 1rem 0;
 
-  background: #f8f8f8;
-  border-bottom: 1px solid rgba(0,0,0,0.08);
+  background: #ffffff;
+  border-bottom: 1px solid rgba(0,0,0,0.10);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.05);
 
-  font-size: 1.1rem;      /* Increased */
-  font-weight: 600;       /* Stronger */
-  letter-spacing: 0.01em; /* Slight polish */
+  font-size: 1.05rem;
+  font-weight: 600;
 }
 
+/* Nav links */
 .section-nav a {
   color: #111 !important;
   text-decoration: none;
-  opacity: 0.85;
-  transition: opacity 0.15s ease;
+  padding-bottom: 0.25rem;
+  border-bottom: 2px solid transparent;
+  transition: all 0.15s ease;
 }
 
 .section-nav a:hover {
-  opacity: 1;
+  border-bottom: 2px solid #111;
 }
 
 
