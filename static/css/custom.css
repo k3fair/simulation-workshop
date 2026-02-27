@@ -2,25 +2,26 @@
 header .f-subheadline-l { font-size: 2.2rem; }
 header .f2-l { font-size: 1.25rem; }
 
-/* --- Widen main content area (Ananke uses nested wrappers) --- */
-main .measure,
-main .measure-wide,
-main .center,
+/* --- Make content properly wide --- */
 main .mw7,
-main .mw8 {
-  max-width: 80rem;      /* ~1280px */
+main .mw8,
+main .center,
+main .measure,
+main .measure-wide {
+  max-width: 110rem !important;   
   width: 100%;
 }
 
-/* --- Left-align body text (override centered parents) --- */
+/* --- Force body text left aligned --- */
 main .nested-copy-line-height,
 main .nested-copy-line-height p,
 main .nested-copy-line-height li,
-main .nested-copy-line-height blockquote {
+main article,
+main article p {
   text-align: left !important;
 }
 
-/* Keep headings centered if you want */
+/* Optional: keep section headings centered */
 main h2,
 main h3 {
   text-align: center;
