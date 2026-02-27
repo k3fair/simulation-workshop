@@ -94,6 +94,51 @@ No prior simulation experience is required.
 
 <hr class="section-divider">
 
+## Talks
+
+### Agent-Based Modelling of Labour Markets and Skills  
+**Dr Kathryn Fair · University of the West of England**
+
+Labour markets are complex adaptive systems shaped by individual mobility decisions, employer demand, skills compatibility, and structural constraints. This talk introduces agent-based modelling approaches to analysing labour-market dynamics, with particular focus on labour flow networks and skill-based transition structures.
+
+Rather than treating employment adjustment as a simple aggregate process, the approach models job-to-job mobility as a networked system in which feasibility depends on skill overlap, occupational structure, and institutional context. The session will demonstrate how simulation can reveal bottlenecks, path dependence, and asymmetric mobility constraints that are not visible in headline indicators.
+
+The emphasis is on mechanism-based reasoning: making assumptions explicit, testing structural sensitivity, and understanding how micro-level behaviour produces system-wide patterns. Participants will gain a clear view of how labour-market simulation can support structured policy thinking without relying on black-box forecasting.
+
+
+### Modelling Collective Dynamics to Moderate Grid Infrastructure Peak Load  
+**Dr Marco Perez Hernandez · University of the West of England**
+
+Infrastructure systems increasingly depend on collective behavioural dynamics. This talk explores how simulation methods can be used to model demand coordination, behavioural responses, and system-level feedback in energy networks — particularly in the context of moderating peak load pressures.
+
+Through applied modelling examples, the session will illustrate how relatively simple agent-based frameworks can reveal non-linear system effects, unintended consequences, and coordination challenges that are not visible in aggregate models. The focus is not on technical detail, but on how modelling collective behaviour can inform infrastructure planning, demand management strategies, and resilience design.
+
+Participants will gain insight into how simulation can bridge engineering systems and human behavioural responses in policy-relevant settings.
+
+
+### Navigating the Adoption of AI for Policymaking  
+**Dr Omar Guerrero · University of Helsinki**
+
+Artificial intelligence is increasingly promoted as a transformative tool for government. Yet inflated expectations and hype can obscure fundamental questions about institutional capacity, incentives, and long-term sustainability. Drawing on recent work examining AI adoption in public administration :contentReference[oaicite:1]{index=1}, this talk critically examines how governments can navigate promises, pitfalls, and illusions associated with AI deployment.
+
+The session introduces a structured framework for evaluating methodological adoption, including key context, data, computing, opportunity cost, and internal capacity considerations. It also presents the 3Ps framework — Pace, Penetration, and Profundity — as a way to assess how deeply a tool reshapes policymaking practice versus merely automating administrative tasks.
+
+The goal is not to reject AI, but to anchor adoption decisions in institutional reality and policy purpose rather than technological momentum.
+
+
+### Agent-Based Modelling in Nationwide Infrastructure Systems  
+**Prof Manuel Herrera · Newcastle University**
+
+Large-scale infrastructure systems — including water, transport, and energy networks — are increasingly analysed through digital twin and simulation approaches. This talk presents applied examples of agent-based modelling and system simulation in nationwide infrastructure contexts, with emphasis on resilience and operational decision support.
+
+The session will highlight how simulation models can integrate engineering constraints, demand variability, behavioural responses, and environmental pressures into a coherent analytical framework. Particular attention will be given to how digital twins can support stress-testing under extreme scenarios, infrastructure interdependencies, and long-term planning under uncertainty.
+
+Participants will gain a clear understanding of how simulation methods move beyond descriptive monitoring toward structured experimentation in complex infrastructure systems.
+
+<hr class="section-divider">
+
+
+
 ## Schedule {#schedule}
 
 | Time | Session |
