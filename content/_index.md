@@ -9,7 +9,7 @@ draft: false
 
 A one-day, practitioner-focused workshop on simulation methods for decision-making in policy, infrastructure, and enterprise contexts—what they are good for, what they are not, and how to use them to stress-test assumptions under uncertainty.
 
-**Attendance:** Free (registration required) · **Capacity:** Limited · **Format:** In-person**
+**Attendance:** Free (registration required) · **Capacity:** Limited · **Format:** In-person
 
 [Register interest](mailto:Kat.Fair@uwe.ac.uk?subject=Simulation%20Workshop%20-%20Registration%20Interest)
 
@@ -119,3 +119,14 @@ Attendance is free, but places are limited.
 
 **[Kat.Fair@uwe.ac.uk](mailto:Kat.Fair@uwe.ac.uk?subject=Simulation%20Workshop%20-%20Registration%20Interest)**  
 Please include your name, organisation, and role.
+
+<hr class="section-divider">
+
+## Supported by
+
+<div class="funding-block">
+  <img src="images/logos/uwe-logo.png" alt="University of the West of England" class="uwe-logo">
+  <div class="funding-text">
+    This workshop is supported by the University of the West of England through internal research and knowledge exchange funding.
+  </div>
+</div>
