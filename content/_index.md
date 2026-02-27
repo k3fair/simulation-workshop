@@ -127,6 +127,6 @@ Please include your name, organisation, and role.
 <div class="funding-block">
   <img src="images/logos/uwe-logo.png" alt="University of the West of England" class="uwe-logo">
   <div class="funding-text">
-    This workshop is supported by the University of the West of England through internal research and knowledge exchange funding.
+    This workshop is supported by the University of the West of England through College of Arts, Technology and Environment (CATE) research and knowledge exchange funding.
   </div>
 </div>
