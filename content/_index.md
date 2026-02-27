@@ -1,6 +1,7 @@
 ﻿---
 title: "Understanding Complexity: Simulations for Systems in Policy and Industry"
 description: "A practitioner-focused workshop introducing applied simulation approaches for regional policy and strategic decision-making."
+featured_image: "/images/hero.png"
 draft: false
 ---
 
