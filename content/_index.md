@@ -1,7 +1,7 @@
 ---
 title: "Understanding Complexity: Simulations for Systems in Policy and Industry"
 description: "A practitioner-focused workshop introducing applied simulation approaches for regional policy, infrastructure, and strategic decision-making."
-featured_image: "/images/hero.png"
+featured_image: "images/hero.png"
 draft: false
 ---
 
@@ -13,9 +13,17 @@ A one-day, practitioner-focused workshop on simulation methods for decision-maki
 
 [Register interest](mailto:Kat.Fair@uwe.ac.uk?subject=Simulation%20Workshop%20-%20Registration%20Interest)
 
+<div class="section-nav">
+  <a href="#speakers">Speakers</a>
+  <a href="#schedule">Schedule</a>
+  <a href="#practical">Practical</a>
+  <a href="#registration">Register</a>
+  <a href="#funding">Funding</a>
+</div>
+
 <hr class="section-divider">
 
-## Why this workshop
+## Why this workshop {#why}
 
 Strategic decisions in government, infrastructure, and industry increasingly involve complex systems: labour markets, sectoral transitions, skills adaptation, energy networks, supply chains, and regional growth dynamics. Standard indicators describe trends, but often fail to clarify **feasibility**, **bottlenecks**, and **system-wide responses** under change.
 
@@ -28,45 +36,27 @@ Simulation methods provide a structured complement. They support:
 
 <hr class="section-divider">
 
-## Who should attend
+## Who should attend {#audience}
 
-Designed for practitioners working in:
+Practitioners working in:
 
-- Regional and national government  
-- Infrastructure and utilities  
-- Economic development and growth teams  
-- Industry and enterprise strategy roles  
-- Data, analytics, and innovation teams  
-- Public bodies engaged in transition planning  
+- Government (regional and national)
+- Infrastructure, utilities, and resilience
+- Economic development and growth
+- Industry and enterprise strategy
+- Data, analytics, and innovation teams
 
 No prior simulation experience is required.
 
 <hr class="section-divider">
 
-## Schedule
-
-| Time | Session |
-|---:|---|
-| 09:30–10:00 | Arrival and coffee |
-| 10:00–10:15 | Introduction |
-| 10:15–11:00 | **Digital Twins of Labour Markets** — Dr Kathryn Fair |
-| 11:00–11:45 | **Modelling Collective Dynamics to Moderate Grid Infrastructure Peak Load** — Dr Marco Perez Hernandez |
-| 11:45–12:30 | Structured problem-solving session |
-| 12:30–13:30 | Networking lunch |
-| 13:30–14:15 | **AI for Policymaking** — Dr Omar Guerrero |
-| 14:15–15:00 | **Agent-Based Modelling in Nationwide Infrastructure Systems** — Prof Manuel Herrera |
-| 15:00–15:45 | Group activity and synthesis |
-| 15:45–16:00 | Closing discussion |
-
-<hr class="section-divider">
-
-## Speakers
+## Speakers {#speakers}
 
 <div class="speaker-grid">
 
   <div class="speaker-card">
     <img class="speaker-photo" src="images/speakers/kat.jpg" alt="Dr Kathryn Fair">
-    <div class="speaker-name">Dr Kathyrn Fair</div>
+    <div class="speaker-name">Dr Kathryn Fair</div>
     <div class="speaker-role">Lecturer in Data Science · University of the West of England</div>
     <div class="speaker-bio">
       Computational social science and regional labour-market modelling; mechanism-based approaches to structure, mobility, and policy stress-testing.
@@ -104,7 +94,24 @@ No prior simulation experience is required.
 
 <hr class="section-divider">
 
-## Practical information
+## Schedule {#schedule}
+
+| Time | Session |
+|---:|---|
+| 09:30–10:00 | Arrival and coffee |
+| 10:00–10:15 | Introduction |
+| 10:15–11:00 | **Digital Twins of Labour Markets** — Dr Kathryn Fair |
+| 11:00–11:45 | **Modelling Collective Dynamics to Moderate Grid Infrastructure Peak Load** — Dr Marco Perez Hernandez |
+| 11:45–12:30 | Structured problem-solving session |
+| 12:30–13:30 | Networking lunch |
+| 13:30–14:15 | **AI for Policymaking** — Dr Omar Guerrero |
+| 14:15–15:00 | **Agent-Based Modelling in Nationwide Infrastructure Systems** — Prof Manuel Herrera |
+| 15:00–15:45 | Group activity and synthesis |
+| 15:45–16:00 | Closing discussion |
+
+<hr class="section-divider">
+
+## Practical information {#practical}
 
 **Location:** UWE Enterprise Zone event space (near Frenchay Campus), Bristol  
 **Format:** In-person · **Duration:** Full day  
@@ -113,7 +120,7 @@ Accessibility and travel guidance will be shared with registered participants.
 
 <hr class="section-divider">
 
-## Registration
+## Registration {#registration}
 
 Attendance is free, but places are limited.
 
@@ -122,10 +129,10 @@ Please include your name, organisation, and role.
 
 <hr class="section-divider">
 
-## Supported by
+## Supported by {#funding}
 
 <div class="funding-block">
-  <img src="images/logos/uwe-logo.png" alt="University of the West of England" class="uwe-logo">
+  <img src="images/logos/uwe-logo.png" alt="University of the West of England (UWE Bristol)" class="uwe-logo">
   <div class="funding-text">
     This workshop is supported by the University of the West of England through College of Arts, Technology and Environment (CATE) research and knowledge exchange funding.
   </div>
