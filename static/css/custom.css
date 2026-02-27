@@ -23,3 +23,7 @@ header .f2-l {
 .measure h3 {
   text-align: center;
 }
+
+.measure-wide {
+  max-width: 65rem;
+}
