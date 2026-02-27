@@ -92,7 +92,7 @@ main .nested-copy-line-height {
 
   padding: 1.1rem 0;
 
-  background: #ffffff;
+  background: #f8f8f8;
   border-bottom: 1px solid rgba(0,0,0,0.08);
 
   font-size: 1.1rem;      /* Increased */
@@ -101,8 +101,9 @@ main .nested-copy-line-height {
 }
 
 .section-nav a {
+  color: #111 !important;
   text-decoration: none;
-  opacity: 0.8;
+  opacity: 0.85;
   transition: opacity 0.15s ease;
 }
 
