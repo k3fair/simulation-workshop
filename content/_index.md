@@ -170,6 +170,7 @@ Accessibility and travel guidance will be shared with registered participants.
 Places are limited.
 
 **[Kat.Fair@uwe.ac.uk](mailto:Kat.Fair@uwe.ac.uk?subject=Simulation%20Workshop%20-%20Registration%20Interest)**  
+
 Please include your name, organisation, and role.
 
 <hr class="section-divider">
