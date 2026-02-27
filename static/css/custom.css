@@ -51,17 +51,27 @@ header .cover > * {
   z-index: 2;
 }
 
-/* Local panel behind hero text (Ananke container) */
-header .mw8,
-header .measure,
-header .ph3,
-header .ph4-l {
+/* Put the panel on ONE wrapper only */
+header .mw8 {
   display: inline-block;
+  max-width: 56rem;          /* optional: keeps it from spanning the whole hero */
   padding: 1.1rem 1.4rem;
   border-radius: 14px;
-  background: rgba(0,0,0,0.38);
-  backdrop-filter: blur(3px);
-  -webkit-backdrop-filter: blur(3px);
+  background: rgba(0,0,0,0.34);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+
+/* Explicitly remove any panel styling from nested wrappers */
+header .mw8 .measure,
+header .mw8 .ph3,
+header .mw8 .ph4-l {
+  background: transparent !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  display: block !important;
 }
 
 /* Add breathing room below hero */
