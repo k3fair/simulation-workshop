@@ -1,6 +1,6 @@
 ---
 title: "Stress-Testing Complex Systems: Simulation for Policy and Industry Strategy"
-description: "Examining what simulation methods can — and cannot — tell us about structural change and decision-making under uncertainty."
+description: "Examining what simulation methods can — and cannot — tell us about system adjustment and decision-making under uncertainty."
 featured_image: "images/hero.png"
 draft: false
 ---
@@ -30,7 +30,7 @@ Drawing on applied examples from labour markets, infrastructure, and public-sect
 
 Strategic decisions in policy and industry increasingly involve systems characterised by interdependence, feedback, and constraint. Yet many planning processes still rely on aggregate indicators or linear projections that overlook how adjustments unfold in practice.
 
-Simulation provides a way to examine system structure rather than just outcomes. By representing interactions explicitly, it can reveal bottlenecks, path dependencies, and unintended consequences before policies or investments are implemented.
+Simulation provides a way to examine system structure alongside observable outcomes. By representing interactions explicitly, it can reveal bottlenecks, path dependencies, and unintended consequences before policies or investments are implemented.
 
 The aim of this workshop is not to promote modelling for its own sake, but to examine where simulation meaningfully strengthens decision-making — and where it does not.
 
@@ -99,7 +99,7 @@ No prior experience with simulation modelling is required. The focus is on conce
 ### Labour Markets as Complex Systems: Simulation, Skills, and Structural Constraints  
 **Dr Kathyrn Fair · University of the West of England**
 
-Labour markets are complex adaptive systems shaped by individual mobility decisions, employer demand, skill compatibility, and institutional context. Yet policy and strategy discussions often rely on aggregate indicators that obscure the structural constraints governing who can realistically move where.
+Labour markets are complex adaptive systems shaped by individual mobility decisions, employer demand, skill compatibility, and institutional context. Yet policy and strategy discussions often rely on aggregate indicators that obscure the constraints governing feasible mobility.
 
 This talk presents an agent-based modelling framework that represents labour mobility as a network of feasible job-to-job transitions. By modelling skills overlap, occupational structure, and behavioural dynamics explicitly, the approach makes visible the bottlenecks, asymmetries, and path dependencies that shape system-level adjustment.
 
@@ -167,7 +167,7 @@ Accessibility and travel guidance will be shared with registered participants.
 
 ## Registration {#registration}
 
-Attendance is free, but places are limited.
+Places are limited.
 
 **[Kat.Fair@uwe.ac.uk](mailto:Kat.Fair@uwe.ac.uk?subject=Simulation%20Workshop%20-%20Registration%20Interest)**  
 Please include your name, organisation, and role.
