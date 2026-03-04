@@ -56,7 +56,11 @@ No prior experience with simulation modelling is required. The focus is on conce
 
   <div class="speaker-card">
     <img class="speaker-photo" src="images/speakers/kat.jpg" alt="Dr Kathyrn Fair">
-    <div class="speaker-name">Dr Kathyrn Fair</div>
+    <div class="speaker-name">
+    <a href="https://people.uwe.ac.uk/Person/KatFair" target="_blank" rel="noopener">
+    Dr Kathyrn Fair
+    </a>
+    </div>
     <div class="speaker-role">Lecturer in Data Science · University of the West of England</div>
     <div class="speaker-bio">
       Computational social science and regional labour-market modelling; mechanism-based approaches to structure, mobility, and policy stress-testing.
@@ -65,7 +69,9 @@ No prior experience with simulation modelling is required. The focus is on conce
 
   <div class="speaker-card">
     <img class="speaker-photo" src="images/speakers/marco.jpg" alt="Dr Marco Perez Hernandez">
-    <div class="speaker-name">Dr Marco Perez Hernandez</div>
+    <div class="speaker-name">
+    <a href="https://people.uwe.ac.uk/Person/MarcoPerezHernandez" target="_blank" rel="noopener">
+    Dr Marco Perez Hernandez</div>
     <div class="speaker-role">Senior Lecturer in Computer Science · University of the West of England</div>
     <div class="speaker-bio">
       Applied modelling of complex socio-economic systems for real-world decision contexts.
@@ -74,7 +80,10 @@ No prior experience with simulation modelling is required. The focus is on conce
 
   <div class="speaker-card">
     <img class="speaker-photo" src="images/speakers/omar.jpg" alt="Dr Omar Guerrero">
-    <div class="speaker-name">Dr Omar Guerrero</div>
+    <div class="speaker-name">
+    <a href="https://oguerr.com/" target="_blank" rel="noopener">
+    Dr Omar Guerrero</div>
+    </a>
     <div class="speaker-role">Lecturer in Social Data Science · University of Helsinki</div>
     <div class="speaker-bio">
       Economic complexity, structural transformation, and network-based policy modelling.
@@ -83,8 +92,11 @@ No prior experience with simulation modelling is required. The focus is on conce
 
   <div class="speaker-card">
     <img class="speaker-photo" src="images/speakers/manuel.jpg" alt="Prof Manuel Herrera">
-    <div class="speaker-name">Prof Manuel Herrera</div>
-    <div class="speaker-role">Professor of Smart Infrastructure Systems · Newcastle University</div>
+    <div class="speaker-name">
+    <a href="https://www.ncl.ac.uk/engineering/staff/profile/manuelherrera.html" target="_blank" rel="noopener">
+    Dr Manuel Herrera</div>
+    </a>
+    <div class="speaker-role"> Lecturer in Hydrology · Newcastle University</div>
     <div class="speaker-bio">
       Infrastructure resilience, digital twins, and simulation-based approaches for engineering and urban systems.
     </div>
@@ -156,7 +168,13 @@ Participants will gain a clear understanding of how simulation methods move beyo
 
 ## Practical information {#practical}
 
-**Location:** UWE Enterprise Zone event space (near Frenchay Campus), Bristol  
+**Location:** Enterprise Zone 1 - Room TBA
+University of the West of England
+Frenchay Campus
+Coldharbour Lane
+Bristol
+BS16 1QY
+United Kingdom  
 **Format:** In-person · **Duration:** Full day  
 
 Accessibility and travel guidance will be shared with registered participants.
