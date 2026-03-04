@@ -169,7 +169,7 @@ Participants will gain a clear understanding of how simulation methods move beyo
 
 ## Practical information {#practical}
 
-**Location:** Room TBA
+**Location:** Room TBA - 
 <a href="https://maps.app.goo.gl/Ft9jMxxe7WNkTHYo8"
    target="_blank"
    rel="noopener">
