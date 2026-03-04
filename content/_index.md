@@ -119,11 +119,9 @@ Participants will gain insight into how simulation can bridge engineering system
 ### Navigating the Adoption of AI for Policymaking  
 **Dr Omar Guerrero · University of Helsinki**
 
-Artificial intelligence is increasingly promoted as a transformative tool for government. Yet inflated expectations and hype can obscure fundamental questions about institutional capacity, incentives, and long-term sustainability. Drawing on recent work examining AI adoption in public administration, this talk critically examines how governments can navigate promises, pitfalls, and illusions associated with AI deployment.
+Everyday you probably receive newsfeeds about a new feat achieved by AI or about the investment hype that this technology is generating. At the same time, governments in countries such as the UK are jumping into this bandwagon without carefully distinguishing realistic potential from illusion. Moreover, in such hyped adoption, there is no clear distinction between different forms of AI and their ability/limitations to tackle different problems. 
 
-The session introduces a structured framework for evaluating methodological adoption, including key context, data, computing, opportunity cost, and internal capacity considerations. It also presents the 3Ps framework — Pace, Penetration, and Profundity — as a way to assess how deeply a tool reshapes policymaking practice versus merely automating administrative tasks.
-
-The goal is not to reject AI, but to anchor adoption decisions in institutional reality and policy purpose rather than technological momentum.
+In this talk, I will discuss some of these issues in the context of policymaking and the adoption of AI in the public sphere. I will go over basic questions that every public servant should be asking when considering the adoption of AI and discuss real-world cases of successful adoptions that cover different traditions of AI such as agent-based modelling, machine learning, and LLMs.
 
 
 ### Agent-Based Modelling in Nationwide Infrastructure Systems  
@@ -149,7 +147,7 @@ Participants will gain a clear understanding of how simulation methods move beyo
 | 11:00–11:45 | **Modelling Collective Dynamics in Infrastructure Systems** — Dr Marco Perez Hernandez |
 | 11:45–12:30 | Structured discussion: identifying system constraints and priority questions |
 | 12:30–13:30 | Networking lunch and informal discussion (lunch provided)|
-| 13:30–14:15 | **Navigating the Adoption of AI for Policymaking** — Dr Omar Guerrero |
+| 13:30–14:15 | **On the successful adoption of agent-based models and other types of AI for public good** — Dr Omar Guerrero |
 | 14:15–15:00 | **Agent-Based Modelling in Nationwide Infrastructure Systems** — Prof Manuel Herrera |
 | 15:00–15:45 | Collaborative workshop: applying simulation thinking to real decision contexts |
 | 15:45–16:00 | Synthesis and next steps |

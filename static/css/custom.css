@@ -1,5 +1,5 @@
 /* -------------------------------------------------- */
-/* HERO: focused readability band                    */
+/* HERO: responsive + mobile-safe                      */
 /* -------------------------------------------------- */
 
 header {
@@ -11,30 +11,24 @@ header .bg-black-60 {
   background: transparent !important;
 }
 
-/* Layered overlay: strong only in text zone */
+/* Overlay: default (desktop/tablet) */
 header::before {
   content: "";
   position: absolute;
   inset: 0;
   z-index: 1;
   pointer-events: none;
-
-  background:
-    linear-gradient(
-      to bottom,
-      rgba(5,15,30,0.92) 0%,
-      rgba(5,15,30,0.90) 20%,
-      rgba(5,15,30,0.75) 45%,
-      rgba(5,15,30,0.40) 70%,
-      rgba(5,15,30,0.20) 100%
-    );
+  background: linear-gradient(
+    to bottom,
+    rgba(5,15,30,0.92) 0%,
+    rgba(5,15,30,0.88) 25%,
+    rgba(5,15,30,0.68) 55%,
+    rgba(5,15,30,0.35) 80%,
+    rgba(5,15,30,0.20) 100%
+  );
 }
 
-/* Ensure hero content sits above overlay */
-header .pv6 {
-  padding-top: 5.5rem;
-  padding-bottom: 5.5rem;
-}
+/* Keep hero content above overlay */
 header .ph3,
 header .ph4-ns,
 header .mw8,
@@ -43,20 +37,35 @@ header .measure {
   z-index: 2;
 }
 
-/* Headline strengthening */
+/* Hero vertical rhythm: responsive (avoid giant mobile banner) */
+header .pv6 {
+  padding-top: clamp(2.5rem, 6vw, 5.5rem);
+  padding-bottom: clamp(2.5rem, 6vw, 5.5rem);
+}
+
+/* Headline: responsive sizing */
 header h1 {
   font-weight: 700 !important;
-  font-size: 3.4rem; 
-  letter-spacing: 0.01em;
+  font-size: clamp(2.0rem, 6.5vw, 3.4rem);
+  line-height: 1.06;
+  letter-spacing: -0.01em;
+
   -webkit-text-stroke: 0.4px rgba(0,0,0,0.55);
   text-shadow:
     0 2px 4px rgba(0,0,0,0.85),
     0 6px 18px rgba(0,0,0,0.55);
+
+  margin: 0 0 0.65rem 0;
+  max-width: 22ch; /* improves line breaks */
 }
 
+/* Subtitle: readable on busy bg */
 header p {
-  opacity: 0.95;
+  opacity: 0.98;
   text-shadow: 0 2px 6px rgba(0,0,0,0.75);
+  font-size: clamp(1.0rem, 2.8vw, 1.25rem);
+  line-height: 1.4;
+  max-width: 60ch;
 }
 
 /* Add breathing room below hero */
@@ -70,6 +79,73 @@ header .site-title,
 header a[href="/"],
 header .f3.fw2.hover-white.no-underline.white-90.dib {
   display: none !important;
+}
+
+/* -------------------------------------------------- */
+/* MOBILE OVERRIDES                                   */
+/* -------------------------------------------------- */
+
+@media (max-width: 40em) {
+
+  /* Stronger overlay on phones for legibility */
+  header::before {
+    background: linear-gradient(
+      to bottom,
+      rgba(5,15,30,0.94) 0%,
+      rgba(5,15,30,0.92) 35%,
+      rgba(5,15,30,0.78) 65%,
+      rgba(5,15,30,0.55) 85%,
+      rgba(5,15,30,0.40) 100%
+    );
+  }
+
+  /* Less vertical padding = less dead scroll */
+  header .pv6 {
+    padding-top: 2.75rem;
+    padding-bottom: 2.5rem;
+  }
+
+  /* Title slightly narrower so breaks look intentional */
+  header h1 {
+    max-width: 18ch;
+    -webkit-text-stroke: 0px transparent; /* optional: cleaner on mobile */
+  }
+
+  /* Subtitle spacing tightened */
+  header p {
+    margin-top: 0.35rem;
+  }
+
+  /* If your background image focal point is off on mobile, shift it */
+  header {
+    background-position: 60% center;
+  }
+}
+
+@media (max-width: 40em) {
+  main table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  main table td:first-child,
+  main table th:first-child {
+    width: 9rem; /* smaller first column on phones */
+  }
+}
+
+@media (max-width: 40em) {
+  .section-nav {
+    padding: 0.5rem 0.5rem;
+    margin: 0.6rem 0 0.9rem 0;
+    font-size: 0.95rem;
+    gap: 0.5rem;
+  }
+
+  .section-nav a {
+    padding: 0.35rem 0.6rem;
+  }
 }
 
 
