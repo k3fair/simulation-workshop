@@ -72,6 +72,7 @@ No prior experience with simulation modelling is required. The focus is on conce
     <div class="speaker-name">
     <a href="https://people.uwe.ac.uk/Person/MarcoPerezHernandez" target="_blank" rel="noopener">
     Dr Marco Perez Hernandez</div>
+    </a>
     <div class="speaker-role">Senior Lecturer in Computer Science · University of the West of England</div>
     <div class="speaker-bio">
       Applied modelling of complex socio-economic systems for real-world decision contexts.
