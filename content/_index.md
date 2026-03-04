@@ -169,8 +169,11 @@ Participants will gain a clear understanding of how simulation methods move beyo
 
 ## Practical information {#practical}
 
-**Location:** Enterprise Zone 1 - Room TBA, University of the West of England - Frenchay Campus, Coldharbour Lane, Bristol, UK, BS16 1QY
-
+**Location:** <a href="https://maps.app.goo.gl/Ft9jMxxe7WNkTHYo8"
+   target="_blank"
+   rel="noopener">
+   UWE Enterprise Park 1 - Room TBA, Long Down Ave, Stoke Gifford, Bristol BS34 8QZ
+</a>
 **Format:** In-person 
 
 **Duration:** Full day  
