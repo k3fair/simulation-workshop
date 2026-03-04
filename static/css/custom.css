@@ -86,7 +86,7 @@ header .f3.fw2.hover-white.no-underline.white-90.dib {
 
   /* Stronger overlay on phones */
   header .pv6::before {
-    background: rgba(5,15,30,0.88);
+    background: rgba(5,15,30,0.93);
   }
 
   /* Less vertical padding */
