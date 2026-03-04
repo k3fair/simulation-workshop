@@ -138,7 +138,7 @@ In this talk, I will discuss some of these issues in the context of policymaking
 
 
 ### Agent-Based Modelling in Nationwide Infrastructure Systems  
-**Prof Manuel Herrera · Newcastle University**
+**Dr Manuel Herrera · Newcastle University**
 
 Large-scale infrastructure systems — including water, transport, and energy networks — are increasingly analysed through digital twin and simulation approaches. This talk presents applied examples of agent-based modelling and system simulation in nationwide infrastructure contexts, with emphasis on resilience and operational decision support.
 
@@ -169,19 +169,7 @@ Participants will gain a clear understanding of how simulation methods move beyo
 
 ## Practical information {#practical}
 
-**Location:** Enterprise Zone 1 - Room TBA,
-
-University of the West of England
-
-Frenchay Campus
-
-Coldharbour Lane
-
-Bristol
-
-BS16 1QY
-
-United Kingdom  
+**Location:** Enterprise Zone 1 - Room TBA, University of the West of England - Frenchay Campus, Coldharbour Lane, Bristol, UK, BS16 1QY
 
 **Format:** In-person 
 
