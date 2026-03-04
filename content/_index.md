@@ -161,7 +161,7 @@ Participants will gain a clear understanding of how simulation methods move beyo
 | 11:45–12:30 | Structured discussion: identifying system constraints and priority questions |
 | 12:30–13:30 | Networking lunch and informal discussion (lunch provided)|
 | 13:30–14:15 | **On the successful adoption of agent-based models and other types of AI for public good** — Dr Omar Guerrero |
-| 14:15–15:00 | **Agent-Based Modelling in Nationwide Infrastructure Systems** — Prof Manuel Herrera |
+| 14:15–15:00 | **Agent-Based Modelling in Nationwide Infrastructure Systems** — Dr Manuel Herrera |
 | 15:00–15:45 | Collaborative workshop: applying simulation thinking to real decision contexts |
 | 15:45–16:00 | Synthesis and next steps |
 
@@ -169,11 +169,13 @@ Participants will gain a clear understanding of how simulation methods move beyo
 
 ## Practical information {#practical}
 
-**Location:** <a href="https://maps.app.goo.gl/Ft9jMxxe7WNkTHYo8"
+**Location:** Room TBA
+<a href="https://maps.app.goo.gl/Ft9jMxxe7WNkTHYo8"
    target="_blank"
    rel="noopener">
-   UWE Enterprise Park 1 - Room TBA, Long Down Ave, Stoke Gifford, Bristol BS34 8QZ
+   UWE Enterprise Park 1, Long Down Ave, Stoke Gifford, Bristol BS34 8QZ
 </a>
+
 **Format:** In-person 
 
 **Duration:** Full day  
