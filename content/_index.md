@@ -5,7 +5,7 @@ featured_image: "images/hero.png"
 draft: false
 ---
 
-### April 30, 2026 · UWE Enterprise Zone, Bristol
+### April 30, 2026 · UWE Enterprise Park 1, Bristol
 
 A one-day practitioner workshop on using simulation to support strategic decisions in complex policy and industry contexts. The focus is on stress-testing assumptions, identifying structural constraints, and examining how systems respond to shocks, transitions, and long-term change.
 
