@@ -28,19 +28,14 @@ header::before {
   );
 }
 
-/* Keep hero content above overlay */
-header .ph3,
-header .ph4-ns,
-header .mw8,
-header .measure {
-  position: relative;
-  z-index: 2;
-}
+
 
 /* Hero vertical rhythm: responsive (avoid giant mobile banner) */
 header .pv6 {
   padding-top: clamp(2.5rem, 6vw, 5.5rem);
   padding-bottom: clamp(2.5rem, 6vw, 5.5rem);
+  position: relative;
+  z-index: 2;
 }
 
 /* Headline: responsive sizing */
@@ -57,6 +52,12 @@ header h1 {
 
   margin: 0 0 0.65rem 0;
   max-width: 22ch; /* improves line breaks */
+}
+
+/* Keep nav normal and above overlay */
+header nav {
+  position: relative;
+  z-index: 3;
 }
 
 /* Subtitle: readable on busy bg */
