@@ -1,6 +1,6 @@
 ---
-title: "Stress-Testing Complex Systems: Simulation for Policy and Industry Strategy"
-description: "Examining what simulation methods can — and cannot — tell us about system adjustment and decision-making under uncertainty."
+title: "Better Decisions Under Uncertainty"
+description: "Examining what simulation methods can — and cannot — tell us about system adjustment and decision-making."
 featured_image: "images/hero.png"
 draft: false
 ---
