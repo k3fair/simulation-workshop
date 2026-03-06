@@ -119,17 +119,16 @@ This talk presents an agent-based modelling framework that represents labour mob
 Rather than offering point forecasts, the framework supports structured reasoning about feasibility: which transitions are possible, which are constrained, and how shocks propagate through connected occupations. The session will demonstrate how simulation can inform workforce planning, sectoral transition strategy, and long-term skills adaptation in both public and enterprise contexts.
 
 
-### Modelling Collective Dynamics to Moderate Grid Infrastructure Peak Load  
+### Coordinating Complex Systems at Scale: Assessing the System-Wide Impact of Local Actions
 **Dr Marco Perez Hernandez · University of the West of England**
 
-Infrastructure systems increasingly depend on collective behavioural dynamics. This talk explores how simulation methods can be used to model demand coordination, behavioural responses, and system-level feedback in energy networks — particularly in the context of moderating peak load pressures.
+Modern organisations are under growing pressures to deliver greater reliability, lower costs, and improved customer outcomes, while running systems that are increasingly interconnected, data-rich, and difficult to predict. This talk introduces a practical toolkit for tackling these complexities by modelling key actors in the system, e.g. human customers, physical assets or software programs, as interacting agents with constraints, incentives, routines, and limited information. By simulating these agent interactions at scale, decision-makers can observe system behaviour before committing resources or take operational risks. Where appropriate, an AI-driven layer augments analysis with large data processing or by producing learned-based policies that support decisions under uncertainty, supporting the design of effective interventions that respect real-world constraints.
 
-Through applied modelling examples, the session will illustrate how relatively simple agent-based frameworks can reveal non-linear system effects, unintended consequences, and coordination challenges that are not visible in aggregate models. The focus is not on technical detail, but on how modelling collective behaviour can inform infrastructure planning, demand management strategies, and resilience design.
-
-Participants will gain insight into how simulation can bridge engineering systems and human behavioural responses in policy-relevant settings.
+The presented toolkit is illustrated with two examples: (1) moderating electricity peak demand by accounting for household routines and community-driven behaviour, and (2) planning physical asset maintenance across large infrastructure networks by coordinating decisions locally when a full network-wide view is impractical. The latter case will also show how contemporary machine learning models are effectively integrated to produce local plans that can be aggregated into a coherent network strategy. Finally, the talk will wrap up with key lessons learned and practical considerations for adopting these approaches. 
 
 
-### Navigating the Adoption of AI for Policymaking  
+
+### On the successful adoption of agent-based models and other types of AI for public good  
 **Dr Omar Guerrero · University of Helsinki**
 
 Everyday you probably receive newsfeeds about a new feat achieved by AI or about the investment hype that this technology is generating. At the same time, governments in countries such as the UK are jumping into this bandwagon without carefully distinguishing realistic potential from illusion. Moreover, in such hyped adoption, there is no clear distinction between different forms of AI and their ability/limitations to tackle different problems. 
@@ -137,14 +136,15 @@ Everyday you probably receive newsfeeds about a new feat achieved by AI or about
 In this talk, I will discuss some of these issues in the context of policymaking and the adoption of AI in the public sphere. I will go over basic questions that every public servant should be asking when considering the adoption of AI and discuss real-world cases of successful adoptions that cover different traditions of AI such as agent-based modelling, machine learning, and LLMs.
 
 
-### Agent-Based Modelling in Nationwide Infrastructure Systems  
+### Information-Centric Approach for Distributed Decision-Making in Urban Infrastructure Systems 
 **Dr Manuel Herrera · Newcastle University**
 
-Large-scale infrastructure systems — including water, transport, and energy networks — are increasingly analysed through digital twin and simulation approaches. This talk presents applied examples of agent-based modelling and system simulation in nationwide infrastructure contexts, with emphasis on resilience and operational decision support.
+As urban environments become larger and more complex, distributed decision-making is essential for maintaining resilient infrastructure. Urban systems exhibit physical and social interdependencies that challenge centralised control architectures, particularly when data is limited and system states are only partially observable.
 
-The session will highlight how simulation models can integrate engineering constraints, demand variability, behavioural responses, and environmental pressures into a coherent analytical framework. Particular attention will be given to how digital twins can support stress-testing under extreme scenarios, infrastructure interdependencies, and long-term planning under uncertainty.
+This talk presents modelling and simulation strategies to enable distributed decision-making under such conditions, using urban water distribution systems as a representative case. Water networks are a suitable instance of an urban system, interconnected to other systems and operating with spatially sparse sensing over a modular infrastructure layout.
 
-Participants will gain a clear understanding of how simulation methods move beyond descriptive monitoring toward structured experimentation in complex infrastructure systems.
+Drawing from multiple research projects, the talk proposes a shift from modelling and control constrained by infrastructure towards information-centric decisions, in which operational boundaries and control actions are defined by sensor reach and data connectivity rather than physical layout alone. Agent-based and network modelling tools are introduced to formalise decentralised coordination, supporting adaptive control, localised anomaly detection, and strategic sensor placement. The discussion concludes by outlining how these principles extend to other networked urban infrastructures characterised by heterogeneous sensing and limited observability.
+
 
 <hr class="section-divider">
 
@@ -157,11 +157,11 @@ Participants will gain a clear understanding of how simulation methods move beyo
 | 09:30–10:00 | Arrival and coffee |
 | 10:00–10:15 | Welcome and framing: simulation for strategic decision-making |
 | 10:15–11:00 | **Labour Markets as Complex Systems: Simulation, Skills, and Structural Constraints** — Dr Kathyrn Fair |
-| 11:00–11:45 | **Modelling Collective Dynamics in Infrastructure Systems** — Dr Marco Perez Hernandez |
+| 11:00–11:45 | **Coordinating Complex Systems at Scale: Assessing the System-Wide Impact of Local Actions** — Dr Marco Perez Hernandez |
 | 11:45–12:30 | Structured discussion: identifying system constraints and priority questions |
 | 12:30–13:30 | Networking lunch and informal discussion (lunch provided)|
 | 13:30–14:15 | **On the successful adoption of agent-based models and other types of AI for public good** — Dr Omar Guerrero |
-| 14:15–15:00 | **Agent-Based Modelling in Nationwide Infrastructure Systems** — Dr Manuel Herrera |
+| 14:15–15:00 | **Information-Centric Approach for Distributed Decision-Making in Urban Infrastructure Systems** — Dr Manuel Herrera |
 | 15:00–15:45 | Collaborative workshop: applying simulation thinking to real decision contexts |
 | 15:45–16:00 | Synthesis and next steps |
 
