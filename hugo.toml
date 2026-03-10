@@ -1,17 +1,17 @@
 baseURL = "https://k3fair.github.io/simulation-workshop/"
 languageCode = "en-gb"
-title = "BDU²"
+title = "BDU² 2026"
 theme = "ananke"
 
 [author]
-  name = "BDU²"
+  name = "BDU² 2026"
 
 [params]
   description = "Better Decisions Under Uncertainty"
   featured_image = "images/hero.png"
   cover_dimming_class = "bg-black-60"
   custom_css = ["css/custom.css"]
-  copyright = "© 2026 Kathyrn Fair"
+  copyright = "Kathyrn Fair"
 
 [caches]
   [caches.images]
