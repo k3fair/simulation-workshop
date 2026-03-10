@@ -1,6 +1,6 @@
 baseURL = "https://k3fair.github.io/simulation-workshop/"
 languageCode = "en-gb"
-title = "BDU² 2026"
+title = "BDU²"
 theme = "ananke"
 
 [author]
@@ -11,6 +11,7 @@ theme = "ananke"
   featured_image = "images/hero.png"
   cover_dimming_class = "bg-black-60"
   custom_css = ["css/custom.css"]
+  copyright = "© 2026 Kathyrn Fair"
 
 [caches]
   [caches.images]
