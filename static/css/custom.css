@@ -70,13 +70,6 @@ header .pv6 p {
 /* Add breathing room below hero */
 header + main { margin-top: 1.25rem; }
 
-/* Hide top-left site title in header (leave as-is) */
-header .navbar-brand,
-header .site-title,
-header a[href="/"],
-header .f3.fw2.hover-white.no-underline.white-90.dib {
-  display: none !important;
-}
 
 /* -------------------------------------------------- */
 /* MOBILE OVERRIDES                                   */

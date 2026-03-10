@@ -1,10 +1,10 @@
 baseURL = "https://k3fair.github.io/simulation-workshop/"
 languageCode = "en-gb"
-title = "Kathyrn Fair"
+title = "BDU² 2026"
 theme = "ananke"
 
 [author]
-  name = "BDU<sup>2</sup> 2026"
+  name = "BDU²"
 
 [params]
   description = "Better Decisions Under Uncertainty"
