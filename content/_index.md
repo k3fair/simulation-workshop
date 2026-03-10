@@ -63,7 +63,7 @@ No prior experience with simulation modelling is required. The focus is on conce
     </div>
     <div class="speaker-role">Lecturer in Data Science · University of the West of England</div>
     <div class="speaker-bio">
-      Computational social science and regional labour-market modelling; mechanism-based approaches to structure, mobility, and policy stress-testing.
+      Mathematician working in computational social science, focusing on labour-market dynamics. Uses agent-based modelling and network methods to analyse job mobility, skills, and policy interventions.
     </div>
   </div>
 
@@ -75,7 +75,7 @@ No prior experience with simulation modelling is required. The focus is on conce
     </a>
     <div class="speaker-role">Senior Lecturer in Computer Science · University of the West of England</div>
     <div class="speaker-bio">
-      Applied modelling of complex socio-economic systems for real-world decision contexts.
+      Computer scientist working on complex systems and multi-agent modelling. Uses simulation and artificial intelligence methods to analyse socio-technical systems and support decision-making under uncertainty.
     </div>
   </div>
 
@@ -87,7 +87,7 @@ No prior experience with simulation modelling is required. The focus is on conce
     </a>
     <div class="speaker-role">Lecturer in Social Data Science · University of Helsinki</div>
     <div class="speaker-bio">
-      Economic complexity, structural transformation, and network-based policy modelling.
+      Computational social scientist studying economic complexity and structural transformation. Uses network and simulation methods to analyse productive capabilities, labour markets, and economic development.
     </div>
   </div>
 
@@ -99,7 +99,7 @@ No prior experience with simulation modelling is required. The focus is on conce
     </a>
     <div class="speaker-role"> Lecturer in Hydrology · Newcastle University</div>
     <div class="speaker-bio">
-      Infrastructure resilience, digital twins, and simulation-based approaches for engineering and urban systems.
+      Engineer specialising in water systems and urban infrastructure resilience. Uses digital twins, simulation, and optimisation methods to analyse infrastructure networks and support sustainable system planning.
     </div>
   </div>
 
@@ -169,7 +169,7 @@ Drawing from multiple research projects, the talk proposes a shift from modellin
 
 ## Practical information {#practical}
 
-**Location:** Room TBA - 
+**Location:** Bovista Room (EP-054) - 
 <a href="https://maps.app.goo.gl/Ft9jMxxe7WNkTHYo8"
    target="_blank"
    rel="noopener">
@@ -188,7 +188,7 @@ Accessibility and travel guidance will be shared with registered participants.
 
 Places are limited.
 
-**[Kat.Fair@uwe.ac.uk](mailto:Kat.Fair@uwe.ac.uk?subject=Simulation%20Workshop%20-%20Registration%20Interest)**  
+**[Register interest](mailto:Kat.Fair@uwe.ac.uk?subject=Simulation%20Workshop%20-%20Registration%20Interest)**  
 
 Please include your name, organisation, and role.
 
