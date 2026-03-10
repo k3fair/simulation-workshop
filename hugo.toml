@@ -3,8 +3,11 @@ languageCode = "en-gb"
 title = "Kathyrn Fair"
 theme = "ananke"
 
+[author]
+  name = "BDU<sup>2</sup> 2026"
+
 [params]
-  description = "Understanding Complexity: Simulations for Systems in Policy and Industry"
+  description = "Better Decisions Under Uncertainty"
   featured_image = "images/hero.png"
   cover_dimming_class = "bg-black-60"
   custom_css = ["css/custom.css"]
