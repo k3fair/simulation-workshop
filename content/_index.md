@@ -112,11 +112,11 @@ No prior experience with simulation modelling is required. The focus is on conce
 ### Labour Markets as Complex Systems: Simulation, Skills, and Structural Constraints  
 **Dr Kathyrn Fair · University of the West of England**
 
-Labour markets are complex adaptive systems shaped by individual mobility decisions, employer demand, skill compatibility, and institutional context. Yet policy and strategy discussions often rely on aggregate indicators that obscure the constraints governing feasible mobility.
+Labour markets are complex adaptive systems shaped by worker mobility, employer demand, skill compatibility, and institutional context. Strategic planning in this area often relies on aggregate indicators that provide valuable high-level signals but reveal little about how adjustments unfold within the system.
 
-This talk presents an agent-based modelling framework that represents labour mobility as a network of feasible job-to-job transitions. By modelling skills overlap, occupational structure, and behavioural dynamics explicitly, the approach makes visible the bottlenecks, asymmetries, and path dependencies that shape system-level adjustment.
+This talk introduces a simulation framework that represents the labour market as a network of possible job-to-job transitions. By modelling skills overlap alongside occupational, industrial, and regional structure, the approach helps identify where mobility pathways exist, where constraints arise, and how structural bottlenecks emerge.
 
-Rather than offering point forecasts, the framework supports structured reasoning about feasibility: which transitions are possible, which are constrained, and how shocks propagate through connected occupations. The session will demonstrate how simulation can inform workforce planning, sectoral transition strategy, and long-term skills adaptation in both public and enterprise contexts.
+The framework provides a way to examine the feasibility of workforce transitions and how changes propagate across connected parts of the labour market. The session illustrates how simulation can support more informed reasoning about workforce planning, sectoral transition strategies, and long-term skills adaptation in policy and enterprise contexts.
 
 
 ### Coordinating Complex Systems at Scale: Assessing the System-Wide Impact of Local Actions
