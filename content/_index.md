@@ -16,17 +16,6 @@ Drawing on applied examples from labour markets, infrastructure, and public-sect
 <a href="https://forms.office.com/e/PpkfQEVg6D" class="link-button">Register interest</a>
 
 
-<div class="section-nav">
-  <a href="#speakers">Speakers</a>
-  <a href="#talks">Talks</a>
-  <a href="#schedule">Schedule</a>
-  <a href="#practical">Practical</a>
-  <a href="#registration">Register</a>
-  <a href="#funding">Funding</a>
-</div>
-
-<hr class="section-divider">
-
 ## Why this workshop {#why}
 
 Strategic decisions in policy and industry increasingly involve systems characterised by interdependence, feedback, and constraint. Yet many planning processes still rely on aggregate indicators or linear projections that overlook how adjustments unfold in practice.
@@ -50,6 +39,14 @@ This workshop is designed for professionals engaged in strategic planning, polic
 No prior experience with simulation modelling is required. The focus is on conceptual clarity, practical relevance, and structured discussion rather than technical implementation.
 
 <hr class="section-divider">
+
+<div class="section-nav">
+  <a href="#speakers">Speakers</a>
+  <a href="#talks">Talks</a>
+  <a href="#schedule">Schedule</a>
+  <a href="#practical">Practical</a>
+  <a href="#registration">Register</a>
+</div>
 
 ## Speakers {#speakers}
 

@@ -134,6 +134,11 @@ main .measure-wide {
   width: 100%;
 }
 
+/* Reduce default theme bottom padding under page content */
+main.pb7 {
+  padding-bottom: 1.5rem;
+}
+
 
 /* -------------------------------------------------- */
 /* TEXT ALIGNMENT + TYPOGRAPHY */
@@ -190,37 +195,67 @@ main p {
   flex-wrap: wrap;
   width: 100%;
 
-  padding: 0.75rem 0.75rem;
+  padding: 0;
   margin: 0.9rem 0 1.2rem 0;   /* reduced */
 
-  background: #f4f4f4;
-  border: 1px solid rgba(0,0,0,0.10);
-  border-radius: 10px;
-  box-shadow: 0 10px 24px rgba(0,0,0,0.08);
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid rgba(0,0,0,0.20);
+  border-radius: 0;
+  box-shadow: none;
 
   font-size: 1.02rem;
   font-weight: 600;
 }
 
-/* Make links look like tabs/pills */
+/* Make links look like tabs */
 .section-nav a {
-  color: #111 !important;
+  color: #2a2a2a !important;
   text-decoration: none;
+  line-height: 1;
 
-  padding: 0.45rem 0.75rem;
-  border-radius: 999px;
+  padding: 0.7rem 1rem;
+  border-radius: 8px 8px 0 0;
+  margin-bottom: -1px;
 
-  background: #ffffff;
-  border: 1px solid rgba(0,0,0,0.14);
+  background: #ececec;
+  border: 1px solid rgba(0,0,0,0.16);
+  border-bottom-color: transparent;
 
   opacity: 1;
-  transition: transform 0.10s ease, background 0.15s ease, border-color 0.15s ease;
+  transition: color 0.15s ease, background 0.15s ease, border-color 0.15s ease;
 }
 
 .section-nav a:hover {
+  background: #f8f8f8;
+  border-color: rgba(0,0,0,0.22);
+  border-bottom-color: transparent;
+}
+
+.section-nav a.is-active,
+.section-nav a[aria-selected="true"] {
   background: #ffffff;
-  border-color: rgba(0,0,0,0.18);
-  transform: translateY(-1px);
+  color: #111 !important;
+  border-color: rgba(0,0,0,0.34);
+  border-bottom-color: #ffffff;
+  box-shadow: inset 0 3px 0 #111;
+  font-weight: 700;
+}
+
+.section-nav a.is-active:hover,
+.section-nav a[aria-selected="true"]:hover {
+  background: #ffffff;
+  border-color: rgba(0,0,0,0.34);
+  border-bottom-color: #ffffff;
+}
+
+.section-nav a:focus-visible {
+  outline: 2px solid rgba(0,0,0,0.5);
+  outline-offset: 2px;
+}
+
+.tab-hidden {
+  display: none !important;
 }
 
 
