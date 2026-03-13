@@ -347,6 +347,21 @@ a[href^="mailto"]:hover {
   background-color: #333;
 }
 
+/* Reusable button-like link */
+.link-button {
+  display: inline-block;
+  padding: 0.65rem 1.25rem;
+  margin-top: 0.75rem;
+  background-color: #111;
+  color: #fff !important;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
+.link-button:hover {
+  background-color: #333;
+}
 
 /* -------------------------------------------------- */
 /* FUNDING SECTION */

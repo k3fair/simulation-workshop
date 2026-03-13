@@ -13,7 +13,7 @@ Drawing on applied examples from labour markets, infrastructure, and public-sect
 
 **Attendance:** Free (registration required) · **Catering provided** · **Capacity:** Limited · **Format:** In-person
 
-[Register interest](https://forms.office.com/e/PpkfQEVg6D)
+<a href="https://forms.office.com/e/PpkfQEVg6D" class="link-button">Register interest</a>
 
 
 <div class="section-nav">
@@ -189,7 +189,7 @@ Accessibility and travel guidance will be shared with registered participants.
 
 Places are limited.
 
-**[Register interest](https://forms.office.com/e/PpkfQEVg6D)**  
+<a href="https://forms.office.com/e/PpkfQEVg6D" class="link-button">Register interest</a>  
 
 Please include your name, organisation, and role.
 
