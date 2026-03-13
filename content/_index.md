@@ -13,7 +13,7 @@ Drawing on applied examples from labour markets, infrastructure, and public-sect
 
 **Attendance:** Free (registration required) · **Catering provided** · **Capacity:** Limited · **Format:** In-person
 
-[Register interest](mailto:Kat.Fair@uwe.ac.uk?subject=Simulation%20Workshop%20-%20Registration%20Interest)
+[Register interest](https://forms.office.com/e/PpkfQEVg6D)
 
 <div class="section-nav">
   <a href="#speakers">Speakers</a>
