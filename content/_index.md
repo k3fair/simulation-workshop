@@ -188,7 +188,7 @@ Accessibility and travel guidance will be shared with registered participants.
 
 Places are limited.
 
-**[Register interest](mailto:Kat.Fair@uwe.ac.uk?subject=Simulation%20Workshop%20-%20Registration%20Interest)**  
+**[Register interest](https://forms.office.com/e/PpkfQEVg6D)**  
 
 Please include your name, organisation, and role.
 
