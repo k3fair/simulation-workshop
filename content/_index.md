@@ -154,7 +154,8 @@ Drawing from multiple research projects, the talk proposes a shift from modellin
 |---:|---|
 | 09:30–10:00 | Arrival and coffee |
 | 10:00–10:15 | Welcome and framing: simulation for strategic decision-making |
-| 10:15–11:00 | **Labour Markets as Complex Systems: Simulation, Skills, and Structural Constraints** — Dr Kathyrn Fair |
+| 10:15–10:50 | **Labour Markets as Complex Systems: Simulation, Skills, and Structural Constraints** — Dr Kathyrn Fair |
+| 10:50–11:00 | **Introduction to the Brunel Centre** — Professor Damian Whittard |
 | 11:00–11:45 | **Coordinating Complex Systems at Scale: Assessing the System-Wide Impact of Local Actions** — Dr Marco Perez Hernandez |
 | 11:45–12:30 | Structured discussion: identifying system constraints and priority questions |
 | 12:30–13:30 | Networking lunch and informal discussion (lunch provided)|
