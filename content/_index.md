@@ -13,7 +13,7 @@ Drawing on applied examples from labour markets, infrastructure, and public-sect
 
 **Attendance:** Free (registration required) · **Catering provided** · **Capacity:** Limited · **Format:** In-person
 
-<a href="https://forms.office.com/e/PpkfQEVg6D" class="link-button">Register interest</a>
+<!-- <a href="https://forms.office.com/e/PpkfQEVg6D" class="link-button">Register interest</a> -->
 
 
 ## Why this workshop {#why}
