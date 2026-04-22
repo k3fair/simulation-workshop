@@ -187,7 +187,9 @@ Accessibility and travel guidance will be shared with registered participants.
 
 Places are limited.
 
-<a href="https://forms.office.com/e/PpkfQEVg6D" class="link-button">Register interest</a>  
+<!-- <a href="https://forms.office.com/e/PpkfQEVg6D" class="link-button">Register interest</a>   -->
+
+Registration closed.
 
 Please include your name, organisation, and role.
 
