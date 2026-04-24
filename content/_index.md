@@ -129,9 +129,9 @@ The presented toolkit is illustrated with two examples: (1) moderating electrici
 ### On the successful adoption of agent-based models and other types of AI for public good  
 **Dr Omar Guerrero · University of Helsinki**
 
-Everyday you probably receive newsfeeds about a new feat achieved by AI or about the investment hype that this technology is generating. At the same time, governments in countries such as the UK are jumping into this bandwagon without carefully distinguishing realistic potential from illusion. Moreover, in such hyped adoption, there is no clear distinction between different forms of AI and their ability/limitations to tackle different problems. 
-
-In this talk, I will discuss some of these issues in the context of policymaking and the adoption of AI in the public sphere. I will go over basic questions that every public servant should be asking when considering the adoption of AI and discuss real-world cases of successful adoptions that cover different traditions of AI such as agent-based modelling, machine learning, and LLMs.
+Every day, news coverage highlights new developments in AI and the significant investment surrounding these technologies. At the same time, governments around the world are moving to adopt AI, sometimes without clearly distinguishing between its realistic potential and its limitations. Moreover, this uptake does not always clearly differentiate between different forms of AI and their respective strengths and limitations for different policy problems.
+ 
+In this talk, I will examine these issues in the context of policymaking and the adoption of AI in the public sector. I will outline a set of core questions that public servants should consider when evaluating AI applications, and discuss real-world examples of adoption across different traditions, including agent-based modelling, machine learning, and large language models.
 
 
 ### Information-Centric Approach for Distributed Decision-Making in Urban Infrastructure Systems 
